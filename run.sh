@@ -1,2 +1,2 @@
 echo 'welcome ttp'
-sleep 600
+echo 'auto build'
